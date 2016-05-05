@@ -23,5 +23,5 @@ A i-ésima linha da entrada diz respeito ao i-ésimo coelho enviado pelo Rei Art
 Imprima uma linha contendo unicamente o valor mínimo total da multa que Lancelot pagará a Távola Redonda.
 
 ## Source
-Problema original: https://www.urionlinejudge.com.br/judge/pt/problems/view/1851
-Testador de input/output: https://www.urionlinejudge.com.br/judge/pt/problems/toolkit/1851
+- Problema original: https://www.urionlinejudge.com.br/judge/pt/problems/view/1851
+- Testador de input/output: https://www.urionlinejudge.com.br/judge/pt/problems/toolkit/1851
