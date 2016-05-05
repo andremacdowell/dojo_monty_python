@@ -1,4 +1,4 @@
-# dojo_monty_python
+# (Monty) Python Dojo - Killer-Rabbit training program
 A repository for the killer-rabbit training problem. In it, there is a python-based solution with unit tests and a random input generator.
 
 ## Description (PT-BR)
