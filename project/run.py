@@ -16,4 +16,9 @@ def rabbit_training(sample):
     return 0
 
 if __name__ == '__main__':
-    print rabbit_training(generate_sample())
+    sample = generate_sample()
+    print "=== Entrada:"
+    for rabbit in sample:
+        print "{} {}".format(rabbit[0], rabbit[1])
+    print "=== Saida:"
+    print rabbit_training(sample)
