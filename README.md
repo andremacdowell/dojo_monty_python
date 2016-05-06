@@ -11,8 +11,8 @@ O combinado foi:
 - Ao começar o treinamento de um coelho, este não poderá ser interrompido até terminado;
 - Coelhos demoram T dias para serem treinados;
 - Caso não estejam sendo treinados, os coelhos entrarão em um estado de matança descontrolada;
-- Sir Lancelot deve pagar uma multa por cada coelho que esteja matando a população;
-- A multa é um valor T que varia dependendo do coelho.
+- Sir Lancelot deve pagar multas diárias para cada coelho que esteja matando a população;
+- A multa é um valor F que varia dependendo do coelho.
 
 Sir Lancelot deve ser capaz de prever qual o menor valor de multa possível que ele terá que pagar à população, dado uma fila de coelhos que chegarão em um período de N dias e suas caracteristicas.
 
