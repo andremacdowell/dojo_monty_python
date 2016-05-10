@@ -20,5 +20,5 @@ class TestCase(unittest.TestCase):
 
     def test_two_rabbits(self):
         self.sample = generate_sample(num_days=2)
-        fine = self.sample[1][1]
+        fine = self.sample[1][1] * (self.sample[0][0] - 1)
         self.assertEqual(rabbit_training(self.sample), fine)
